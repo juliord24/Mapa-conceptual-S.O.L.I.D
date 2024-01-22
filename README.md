@@ -1,4 +1,4 @@
-# S.O.L.I.D Canvas
+# Mapa coneptual de los principios S.O.L.I.D
 ![S O L I D](https://github.com/juliord24/S.O.L.I.D-canvas/assets/108367960/a58ea093-914b-4ec3-bbc0-d45ed3b399cc)
 
 # Fuentes 
