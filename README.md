@@ -1,5 +1,6 @@
 # Mapa coneptual de los principios S.O.L.I.D
-![S O L I D](https://github.com/juliord24/S.O.L.I.D-canvas/assets/108367960/a58ea093-914b-4ec3-bbc0-d45ed3b399cc)
+![S O L I D](https://github.com/juliord24/Mapa-conceptual-S.O.L.I.D/assets/108367960/4c4c3f23-66ee-4240-ae1f-da02ce7b3b52)
+Los principios S.O.L.I.D son un conjunto de cinco principios de diseño de software orientado a objetos, su objetivo es promover un desarrollo de software más comprensible, flexible y mantenible.
 
 Cuando estás aprendiendo algo nuevo, abrir un artículo o una página de documentación y encontrarte con tanto texto puede no ser muy atractivo, así que espero que este mapa te ayude un poco con eso!
 
