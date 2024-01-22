@@ -1,6 +1,8 @@
 # Mapa coneptual de los principios S.O.L.I.D
 ![S O L I D](https://github.com/juliord24/S.O.L.I.D-canvas/assets/108367960/a58ea093-914b-4ec3-bbc0-d45ed3b399cc)
 
+Cuando estás aprendiendo algo nuevo, abrir un artículo o una página de documentación y encontrarte con tanto texto puede no ser muy atractivo, así que espero que este mapa te ayude un poco con eso!
+
 # Fuentes 
 - Las imágenes que he usado son de [Ugonna Thelma](https://medium.com/@ugonnat)
 - [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
